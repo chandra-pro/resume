@@ -3,10 +3,10 @@
 		"name": "Chandramani Kumar",
 		"label": "Student",
 		"picture": "https://avatars.githubusercontent.com/u/75677045?s=400&u=a914288b9bdb4c755e97a1c83d114a94a6f97015&v=4",
-		"email": "2020kucp1107@iiitkota.ac.in",
+		"email": "2021uec1527@mnit.ac.in",
 		"phone": "6206593821",
 		"website": "",
-		"summary": "I am a student of Indian Institute of Information Technology Kota pursuing my B.tech in CSE having  optimistic thought who always try to improve his mistake and intrested to take a risk in learning new things. ",
+		"summary": "I am a student Malviya Institute of Technology and currently pursuing my B.tech in ECE having  optimistic thought who always try to improve his mistake and intrested to take a risk in learning new things. ",
 		"location": {
 			"address": "Ghorasahan,Motihari",
 			"postalCode": "845303",
@@ -37,16 +37,16 @@
 		]
 	},
 	"education": [{
-		"institution": "Indian Institute of Information technology,kota",
+		"institution": "MNIT jaipur",
 		"area": "Engineering",
 		"studyType": "Bachelor (hons)",
 		"startDate": "2020-12-02 //Date",
-		"courses": ["Computer Science & Engineering"]
+		"courses": ["Electronic&Comm. Engineering"]
 	}],
 	
 	"skills": [{
 		"level": "Intermediate",
-		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "JAVA","Android development","PHP"]
+		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "JAVA","Android development","PHP","django","mongodb"]
 	}],
 	"interests": [{
 		"name": "Sports",
